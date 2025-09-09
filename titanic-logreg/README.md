@@ -4,6 +4,8 @@ The goal of this notebook is to predict which passengers of the Titanic have sur
 ### Results
 Training set accuracy: 0.8070739549839229
 Testing set accuracy: 0.7790262172284644
+F1: 0.7035175879396985
+ROC-AUC: 0.8327669049572248
 
 Confusion Matrix: 
 - True positives: 70
@@ -21,3 +23,5 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook
+
+
