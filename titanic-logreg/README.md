@@ -1,5 +1,5 @@
 ### Goal
-The goal of this notebook is to predict which passengers of the Titanic have survived and which didn't. The pipeline is end-to-end; we clean the data, one-hot encode categorical data, normalize using z-scores, implement our own version of gradient descent and logistic regression and compare the results to sklearn.LogisticRegression. 
+The goal of this notebook is to predict which passengers of the Titanic have survived and which have not. The pipeline is end-to-end; we clean the data, one-hot encode categorical data, normalize using z-scores, implement our own version of gradient descent and logistic regression and compare the results to sklearn.LogisticRegression. 
 
 ### Results
 Training set accuracy: 0.8070739549839229
